@@ -1,0 +1,9 @@
+[submodule "cadenza_sounds"]
+	path = cadenza_sounds
+	url = git@git.musicaloft.com:municorn/cadenza-sounds
+[submodule "cadenza_shell"]
+	path = cadenza_shell
+	url = git@git.musicaloft.com:municorn/cadenza-shell
+[submodule "pinentry_cadenza"]
+	path = pinentry_cadenza
+	url = git@git.musicaloft.com:municorn/pinentry-cadenza
