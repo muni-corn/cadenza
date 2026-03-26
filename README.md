@@ -14,9 +14,13 @@ many things here are still under heavy development, so **please open up issues**
 
 the firstborn of the cadenza project, previously under the names of `muse-status` and `muse-shell`.
 
+it's a beautiful status bar and notification daemon, written with Relm4, with a built-in sidebar that's complete with a notification list, notification history, system toggles, and a nice little clock and calendar.
+
 ### cadenza sounds
 
 a pleasing sound theme for your desktop that will spark the dopamine you need to be productive.
+
+written all by yours truly.~
 
 ### pinentry-cadenza
 
